@@ -70,6 +70,10 @@ Average Percentage: 87.00%
 Grade             : B
 Result            : PASS
 ======================================
+
+
+<img width="355" height="290" alt="image" src="https://github.com/user-attachments/assets/4724a1e5-0c3e-4e17-8099-dac168d7779b" />
+
 ```
 
 ## 📊 Grade Criteria
