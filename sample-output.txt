@@ -1,0 +1,16 @@
+========================================
+       STUDENT GRADE CALCULATOR
+========================================
+Enter the number of subjects: 5
+Enter marks for subject 1 (0-100): 95
+Enter marks for subject 2 (0-100): 88
+Enter marks for subject 3 (0-100): 76
+Enter marks for subject 4 (0-100): 84
+Enter marks for subject 5 (0-100): 92
+
+=============== RESULT ===============
+Total Marks       : 435 / 500
+Average Percentage: 87.00%
+Grade             : B
+Result            : PASS
+======================================
